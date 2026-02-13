@@ -50,3 +50,6 @@ A functional task entry system that ensures accurate data collection, validation
 - When there are no completed tasks:
 
   ![invalid status](./explainer-images/no%20completed%20tasks%20log.png)
+
+  **Taks Review**
+  -Project was a bit challenging but as soon as I figured out the trick behind empty strings it became much more easier to work with getting user input.
